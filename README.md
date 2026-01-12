@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student with a strong interest in technology and development.</h3>
 
 # 💫 About Me:
-🔭 Pursuing a career as a back-end developer  <br>📚 Studying Computer Science and applying knowledge <br>🧠 Interested in understanding how systems work behind the scenes  <br>🌱 Continuously learning and improving as a software developer
+🔭 Pursuing a career as a developer  <br>📚 Studying Computer Science and applying knowledge <br>🧠 Interested in understanding how systems work behind the scenes  <br>🌱 Continuously learning and improving as a software developer
 
 
 ## 🌐 Socials:
